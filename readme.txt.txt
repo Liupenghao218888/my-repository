@@ -5,3 +5,4 @@ Git tracks changes first .
 Git create a ne branch called "dev".
 Creating a new branch is quick && simple .
 Creating a feature2 to verify no-ff.
+Creating a feature3 to veryfy --no-ff.......
