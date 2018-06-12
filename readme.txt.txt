@@ -4,3 +4,4 @@ Git has a mutable index called stash.
 Git tracks changes first .
 Git create a ne branch called "dev".
 Creating a new branch is quick && simple .
+Creating a feature2 to verify no-ff.
